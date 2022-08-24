@@ -1,4 +1,4 @@
-https://media4.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif
+<img src="https://media4.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="">
 
 <h1 align="center">Hi 👋, I'm TUHIN THAKUR</h1>
 <h3 align="center">A passionate developer from India</h3>
