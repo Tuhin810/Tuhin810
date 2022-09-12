@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhin810&label=Profile%20views&color=0e75b6&style=flat" alt="tuhin810" /> </p>
 
-- 🌱 I’m currently learning **javaScript**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **tuhin.thakur1233@gmail.com**
 
