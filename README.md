@@ -1,5 +1,5 @@
 <!-- <img src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif" style ="hight:100px;" alt=""> -->
-<img src="[https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif](https://images.squarespace-cdn.com/content/v1/5438bd1be4b0446f6692b906/1614727642496-LLSKNI08OW6OEBVS2HZP/boba-target1.gif)" style ="hight:100px;" alt="">
+<img src="https://images.squarespace-cdn.com/content/v1/5438bd1be4b0446f6692b906/1614727642496-LLSKNI08OW6OEBVS2HZP/boba-target1.gif" style ="hight:100px;" alt="">
 
 <h1 align="center">Hi 👋, I'm TUHIN</h1>
 <h3 align="center">A passionate developer from India</h3>
