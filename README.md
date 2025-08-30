@@ -30,9 +30,8 @@
 
 
 </div>
-<img src="https://i.pinimg.com/originals/c7/2d/14/c72d14aeeb05acf7eefc46c3035b471d.gif"/>
----
 
+---
 <!-- 
 ====================================================================================================
 |                                           ABOUT ME 👨‍💻                                           |
@@ -67,6 +66,7 @@ I'm a passionate developer from Kolkata,India. with a love for building innovati
 </p>
 
 ---
+ <img src="https://giffiles.alphacoders.com/214/214388.gif" alt="Profile views" />
 
 <!-- 
 ====================================================================================================
