@@ -3,7 +3,8 @@
 |                                      HI THERE, I'M TUHIN! 👋                                     |
 ==================================================================================================== 
 -->
-<div align="center">
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<div align="">
   <!-- Visitor Badge -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=Tuhin810&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile views" />
@@ -17,12 +18,17 @@
   </h1>
 
   <!-- Social Media Badges -->
-  <p>
-    <!-- Replace the "#" with your actual social media links -->
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-D44138?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  </p>
+<p>
+  <!-- Replace "#" with your actual links -->
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" alt="Telegram"></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=chrome" alt="Portfolio"></a>
+</p>
+
+
 </div>
 
 ---
@@ -35,13 +41,13 @@
 ### 👨‍💻 About Me
 
 <!-- Introduce yourself! Tell the world what you're passionate about. -->
-I'm a passionate developer from [Your Country/City] with a love for building innovative and efficient applications. I enjoy tackling challenging problems and am always eager to learn new technologies.
+I'm a passionate developer from Kolkata,India. with a love for building innovative and efficient applications. I enjoy tackling challenging problems and am always eager to learn new technologies.
 
-- 🔭 I’m currently working on a cool project involving **[Your Project/Technology]**.
-- 🌱 I’m currently learning **[New Skill/Language]**.
+- 🔭 I’m currently working on a cool project involving **Web3**.
+- 🌱 I’m currently learning **Rust**.
 - 👯 I’m looking to collaborate on **open-source projects**.
-- 📫 How to reach me: **[Your Email or Social Media Handle]**.
-- ⚡ Fun fact: **[A fun fact about yourself!]**
+- 📫 How to reach me: **tuhin.thakur1233@gmail.com**.
+- ⚡ Fun fact: **I know chinese**
 
 ---
 
@@ -54,9 +60,10 @@ I'm a passionate developer from [Your Country/City] with a love for building inn
 
 <!-- Add or remove icons from the list below. Find more icons at https://skillicons.dev/ -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,py,rust,docker,git,vscode,figma,postman&perline=8" />
-  </a>
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,py,docker,git,vscode,postman,aws,gcp,firebase,postgres&perline=8" />
+</a>
+
 </p>
 
 ---
