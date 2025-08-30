@@ -1,111 +1,136 @@
-<h1 align="left" id="tuhin810-title">👋 Hello there! I'm Hinduran (Tuhin Sharma)</h1>
-<h3 align="left">Engineer | CSE 3rd Year | Dev & Cloud Enthusiast</h3>
+<!-- 
+====================================================================================================
+|                                      HI THERE, I'M TUHIN! 👋                                     |
+==================================================================================================== 
+-->
+<div align="center">
+  <!-- Visitor Badge -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Tuhin810&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile views" />
+  </p>
+  
+  <!-- Animated Typing Title -->
+  <h1>
+    <a href="https://github.com/Tuhin810">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=5865F2&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Tuhin!;I'm+a+Full-Stack+Developer;I+love+to+build+%26+create.;Welcome+to+my+profile!" alt="Typing SVG" />
+    </a>
+  </h1>
 
-<p align="left">
-  <a href="https://github.com/Tuhin810">
-    <img src="https://komarev.com/ghpvc/?username=Tuhin810" alt="page views" />
-  </a>
-  <a href="https://github.com/Tuhin810?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Tuhin810?style=flat&logo=github">
-  </a>
-  <a href="https://stackoverflow.com/users/your-id-here">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/YOUR_ID?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
+  <!-- Social Media Badges -->
+  <p>
+    <!-- Replace the "#" with your actual social media links -->
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-D44138?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  </p>
+</div>
+
+---
+
+<!-- 
+====================================================================================================
+|                                           ABOUT ME 👨‍💻                                           |
+==================================================================================================== 
+-->
+### 👨‍💻 About Me
+
+<!-- Introduce yourself! Tell the world what you're passionate about. -->
+I'm a passionate developer from [Your Country/City] with a love for building innovative and efficient applications. I enjoy tackling challenging problems and am always eager to learn new technologies.
+
+- 🔭 I’m currently working on a cool project involving **[Your Project/Technology]**.
+- 🌱 I’m currently learning **[New Skill/Language]**.
+- 👯 I’m looking to collaborate on **open-source projects**.
+- 📫 How to reach me: **[Your Email or Social Media Handle]**.
+- ⚡ Fun fact: **[A fun fact about yourself!]**
+
+---
+
+<!-- 
+====================================================================================================
+|                                        MY TECH STACK 🛠️                                          |
+==================================================================================================== 
+-->
+### 🛠️ My Tech Stack
+
+<!-- Add or remove icons from the list below. Find more icons at https://skillicons.dev/ -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,py,rust,docker,git,vscode,figma,postman&perline=8" />
   </a>
 </p>
 
-<a href="#tuhin810-title">
-  <img src="https://raw.githubusercontent.com/Tuhin810/github-stats-transparent/output/generated/overview.svg" alt="tuhin810" align="right" />
-</a>
+---
 
-- 💻 &nbsp;I’m currently exploring **Cloud, DevOps, and Full-Stack Development**
-- 🌱 &nbsp;Working on projects in **Python, Node.js, and React**
-- 🗣️ &nbsp;I like discussing **Kubernetes, Docker, and Open Source**
-- 📖 &nbsp;Learn more about me on my **[blog]**
-- 📬 &nbsp;You can reach me via **[issues page]**
-- 🤝 &nbsp;Connect with me on **[LinkedIn]**
+<!-- 
+====================================================================================================
+|                                     GITHUB STATS & ACTIVITY 🔥                                   |
+==================================================================================================== 
+-->
+### 🔥 My GitHub Stats & Activity
 
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Tuhin810&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Tuhin's GitHub Stats" style="height: 180px;"/>
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuhin810&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" style="height: 180px;"/>
+  
+  <!-- GitHub Streak Card -->
+  <br/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Tuhin810&theme=dracula&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<!-- Contribution Grid Snake Animation -->
+<div align="center">
+  <h3>My GitHub Contributions</h3>
+  <img src="https://raw.githubusercontent.com/Tuhin810/Tuhin810/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <p><i>Note: The snake animation requires a GitHub Action to update daily. See details below.</i></p>
+</div>
+
+---
+
+<!-- 
+====================================================================================================
+|                                       IMPORTANT NOTE 📝                                          |
+==================================================================================================== 
+-->
+<details>
+<summary><b>📝 Note: How to Enable the Snake Animation</b></summary>
 <br>
+The contribution snake animation above will show as a broken image at first. To fix this, you need to create a simple GitHub Action that runs automatically to generate the animation file.
 
-<h2 align="left" id="tuhin810-tech">Favorite Tech</h2>
+**Don't worry, it's easy! Just follow these 3 steps:**
 
-> Tools, languages, and frameworks I use.
+1.  In your `Tuhin810` repository, create a new folder named `.github`, and inside that, another folder named `workflows`. The final path should be `.github/workflows`.
+2.  Inside the `workflows` folder, create a new file named `main.yml`.
+3.  Copy and paste the code below into the `main.yml` file:
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      <br>Debian
-    </td>
-  </tr>
-</table>
+    ```yml
+    name: Generate Snake Animation
+    on:
+      schedule:
+        - cron: "0 */12 * * *" # Runs every 12 hours
+      workflow_dispatch:
+    jobs:
+      build:
+        runs-on: ubuntu-latest
+        steps:
+          - uses: actions/checkout@v2
+          - uses: Platane/snk@v2
+            with:
+              github_user_name: ${{ github.repository_owner }}
+              svg_out_path: dist/github-contribution-grid-snake.svg
+          - uses: crazy-max/ghaction-github-pages@v2.5.0
+            with:
+              target_branch: output
+              build_dir: dist
+            env:
+              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    ```
 
-<h2 align="left">Coding Activity</h2>
+After saving this file, the animation will be generated within a few minutes and will update automatically every 12 hours!
 
-> Open-source and personal projects progress.
+</details>
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-
-<h2 align="left">Coding Activity</h2>
-
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.4 hr  ┤│                                                                                                   
-  2204.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+---
