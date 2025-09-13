@@ -45,7 +45,7 @@ I'm a passionate developer from Kolkata,India. with a love for building innovati
 - 🔭 I’m currently working on a cool project involving **Web3**.
 - 🌱 I’m currently learning **Rust**.
 - 👯 I’m looking to collaborate on **open-source projects**.
-- 📫 How to reach me: **tuhin.thakur1233@gmail.com**.
+- 📫 How to reach me: **tuhin.thakur1233@outlook.com**.
 - ⚡ Fun fact: **I know chinese**
 
 ---
